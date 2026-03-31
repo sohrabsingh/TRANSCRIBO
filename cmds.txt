@@ -1,0 +1,8 @@
+requirements:
+faster-whisper
+pywebview
+huggingface_hub
+
+
+Note: make sure to activate venv beforehand
+Build with: pyinstaller --onefile --windowed --name Transcribo --collect-all faster_whisper --collect-all ctranslate2 --collect-all webview --collect-all huggingface_hub transcribo_app.py
