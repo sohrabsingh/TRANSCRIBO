@@ -155,7 +155,7 @@ The executable will be available in the `dist/` folder.
 
 ## 📄 License
 
-MIT License
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
