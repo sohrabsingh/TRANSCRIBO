@@ -1,0 +1,27 @@
+# Python virtual environment folders
+venv/
+.venv/
+
+# Other common Python files and folders to ignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Optional: Other folders you want to ignore
+# Example: a folder for local data or logs
+data/
+logs/
+.vscode/ # Editor settings, can be ignored
+.idea/   # IDE settings
+
+# Environment variables file
+.env
+
+
+# other
+build/
+oldie/
+linux/
+to_work_on/
